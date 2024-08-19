@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "870902745208",
+    "project_id": "new-journey-9dc6a",
+    "storage_bucket": "new-journey-9dc6a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:870902745208:android:3a8f1842aea6e4ad74458d",
+        "android_client_info": {
+          "package_name": "com.example.new_journey"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIRh7uCzzSXJb6b_3aMf6aFse2fZ4rE6I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
